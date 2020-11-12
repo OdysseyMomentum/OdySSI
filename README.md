@@ -1,0 +1,2 @@
+# OdySSI
+Self Sovereign Identity
